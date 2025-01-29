@@ -1,0 +1,41 @@
+  .usestate-div {
+    background-color: white;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .usestate-heading {
+    font-size: 2rem;
+    color: #333;
+    margin-bottom: 10px;
+  }
+  
+  .usestate-h2 {
+    font-size: 3rem;
+    color: #007bff;
+    margin: 20px 0;
+  }
+  
+  .usestate-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .usestate-button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .usestate-button:hover {
+    background-color: #0056b3;
+  }
+  

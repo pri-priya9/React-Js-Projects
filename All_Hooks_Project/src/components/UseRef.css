@@ -1,0 +1,67 @@
+ .useref-div {
+    max-width: 110%;
+    width: 90%;
+    padding: 20px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+    text-align: center;
+  }
+
+  .useref-heading {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  
+  .useref-form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .useref-div2 {
+    font-weight: bold;
+    color: #555;
+    text-align: left;
+  }
+  
+  .useref-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    width: 100%;
+  }
+  
+  .useref-button {
+    padding: 12px;
+    font-size: 16px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .useref-button:hover {
+    background-color: #0056b3;
+  }
+
+  @media (max-width: 768px) {
+    .useref-div {
+      padding: 15px;
+    }
+  
+    .useref-heading {
+      font-size: 20px;
+    }
+  
+    .useref-input, .useref-button {
+      font-size: 14px;
+      padding: 10px;
+    }
+  }
+  

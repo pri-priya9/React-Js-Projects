@@ -1,0 +1,34 @@
+.usecontext-app-container {
+    text-align: center;
+    margin-top: 50px;
+    font-family: Arial, sans-serif;
+    transition: all 0.3s ease-in-out;
+  }
+ 
+  .usecontext-app-container.en {
+    background-color: #b2d0eb;
+    color: #000;
+  }
+  
+  .usecontext-app-container.hi {
+    background-color: #eed15e;
+    color: #333;
+  }
+  
+  .usecontext-app-container.ur {
+    background-color: #e9b5b5;
+    color: #005;
+    direction: rtl;
+  }
+  
+  .usecontext-language-selector {
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 20px;
+    border: 1px solid #65a30d;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    background-color: rgb(237, 253, 132);
+  }
+  

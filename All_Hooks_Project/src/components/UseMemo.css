@@ -1,0 +1,25 @@
+.usememo-div {
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  .usememo-h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  .usememo-input-box {
+    padding: 10px;
+    font-size: 16px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    width: 80%;
+    max-width: 300px;
+  }
+  
+  .usememo-result {
+    font-size: 18px;
+    color: #555;
+  }
+  
