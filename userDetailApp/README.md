@@ -1,12 +1,41 @@
-# React + Vite
+# 📊 User Detail Dashboard
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **User Detail Dashboard** built using **React.js** and **Tailwind CSS**. This dashboard displays detailed user information in a clean and structured layout, making it easy to manage and visualize user data.
 
-Currently, two official plugins are available:
+🔗 **Live Demo:** [user-dashboard-9.netlify.app](https://user-dashboard-9.netlify.app/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🖼️ Screenshot
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![User Dashboard Screenshot](https://via.placeholder.com/800x400?text=User+Detail+Dashboard+Screenshot)
+
+---
+
+## ✨ Features
+
+- 👤 Display of detailed user information
+- 📱 Fully responsive design using Tailwind CSS
+- 🎨 Clean and modern UI with minimalist layout
+- ⚛️ Built with functional components and React Hooks
+- 📦 Easy to scale and maintain codebase
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** – JavaScript library for building user interfaces
+- **Tailwind CSS** – Utility-first CSS framework for fast UI styling
+- **JavaScript (ES6+)** – For interactive behavior and data handling
+
+---
+
+## 🚀 Getting Started (Developers)
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/user-detail-dashboard.git
+cd user-detail-dashboard
+npm install
+npm start
